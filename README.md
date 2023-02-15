@@ -2,7 +2,7 @@
 This repository contains course material for learning python from beginner to advance 
 
 - [x] beginner
-- [ ] intermediate
+- [ ] intermediate (in progress...)
 - [ ] advanced
 
 
